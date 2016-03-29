@@ -1,14 +1,6 @@
-YOURLS Plugin
-
-Copyright (c) 2016 by the contributors
-
-This program is free software. Do whatever you want with it.
-
-This program is distributed under the terms of the MIT license, in the hope that it will be useful and/or fun to use. There is absolutely no guarantee of any kind about anything.
-
 The MIT License (MIT)
 
-Copyright (c) 2016 by the contributors
+Copyright (c) 2016, Aylwin Cal <aylwin.cal@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
